@@ -8,9 +8,56 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+![Cyndia at SLOPE lab](/images/cyndia_viper.png)
+My name is Cyndia, and I am a PhD Candidate at UC Berkeley with the Embodied Dexterity Group. I study rover locomotion, funded by a NASA Space Technology Research Fellowship. 
+<!-- In the picture above, I am assisting VIPER validation & verification testing at NASA Glenn Research Center. -->
 
-A data-driven personal website
+I came to graduate school in order to develop the technical and project management skills to lead research and development groups, specifically for field robotics in challenging environments. In my research, I developed and analyzed models and simulations, which I then used to improve the operation and design of robotic systems. In the process, I had to develop performance metrics and quantification processes to evaluate success. 
+
+In the last few years, I realized there are still huge technical challenges remaining on the path to curbing human impact on Earth's ecosystems. Many technologies have been demonstrated in the lab but struggle to be cost or energy effective in the real world. 
+<!-- I am ready to combine my research and industry experience to tackle these hurdles and see these technologies to either impactful scales or to a proper localized application. -->
+
+**My mission is to use my research experience to deploy technology from the lab into the field in order to address technical barriers to mitigating climate change, such as long-duration storage, green hydrogen generation, and carbon capture. I am a hands-on, experimentally-driven, and theory-motivated builder who enjoys adapting to the challenge at hand.**
+
+
+Research Summary
+======
+Planetary rovers have a history of entrapment in soft Martian sand, which is difficult to visually anticipate and results in high-stakes extrication efforts. NASA will soon return to the moon to scout for water ice and other resources in polar craters, which may be composed of sloped loose regolith. As scientific objectives on Mars evolve and interest in lunar exploration increases, the need to traverse loose, sandy terrain incentivizes the design of more energy-efficient locomotion suspensions and gaits. 
+To tackle this challenge, I investigated the effects of weight distribution and induced wheel slip on mobility using miniature rovers in the lab and the Volatiles Investigating Polar Exploration Rover (VIPER) mobility representative rover at NASA. 
+
+For generating significant weight redistribution to modify the contact loads between each wheel and the terrain, I proposed the use of control moment gyroscopes and simulated the actuation levels required to improve obstacle climbing ability. Then I experimentally characterized how VIPER’s load-responsive suspension controller, which reacts relatively slowly to its environment, impacts mobility metrics. 
+
+I also extensively applied granular resistive force theory to model wheel-terrain interaction for traversing sandy terrain. I noticed that net tractive force can be increased by inducing different levels of wheel slip across the vehicle depending on individual wheel sinkage. Using this knowledge, I was able to increase the travel velocity of a fixed suspension rover traveling through a high resistance media by 10% by driving the back wheels twice as fast as the front wheels. I found that increasing wheel slip relative to suspension kinematics in an active suspension allows an inchworming rover to climb slopes eight times more efficiently and allows VIPER to travel 35% faster in an extreme terrain sink tank. Together, these works show that there is still significant room to improve traditional wheeled planetary locomotion and that suspensions with additional degrees of control can be deployed robustly while safeguarding against entrapment.
+
+To learn more about specific projects, please check out the Publications tab.
+
+
+Personal Interests
+======
+In my free time, I mentor the Berkeley High School Robotics team. I enjoy watching the students' ambitions grow as they continue to achieve more each year. I hope to teach them clear and respectful communication with each other and to remind them to pay attention to and inspire those around them. I also hope we can build fun robots that challenge expectations and put on a good show.
+
+<center> <img src="/images/frc.jpg"  width="49.5%" > </center>
+<!-- <br/> -->
+&nbsp;
+
+I also love to snowboard and be outside. I enjoy foraging, hiking, backpacking, and overlanding (off-roading for people who are scared of damaging their cars).
+Here are some cool pictures from the last few years.
+
+<!-- ![](/images/fun0.png) -->
+<center>
+<img src="/images/fun0.png"  width="49.5%" >
+<img src="/images/fun1.png"  width="49.5%" >
+
+<img src="/images/fun2.png"  width="49.5%">
+<img src="/images/fun5.png"  width="49.5%">
+
+<img src="/images/fun3.png"  width="49.5%">
+<img src="/images/fun4.png"  width="49.5%">
+</center>
+
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
+
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -47,4 +94,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
