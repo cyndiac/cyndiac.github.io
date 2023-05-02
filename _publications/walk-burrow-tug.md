@@ -2,7 +2,7 @@
 title: "Walk‐Burrow‐Tug: Legged anchoring analysis using RFT‐based granular limit surfaces"
 collection: publications
 permalink: /publication/walk-burrow-tug
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This work validates that the load capacity of sand can be represented by a limit surface generated via RFT. Knowledge of the load direction also allows one to estimate the resulting direction of displacement once media failure occurs.'
 date: 2023-04-21
 venue: 'IEEE Robotics and Automation Letters'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10106433'
