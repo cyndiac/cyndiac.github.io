@@ -20,5 +20,9 @@ The data confirm that the DFT increases wheel-to-ground contact and balances loa
 This tuning allows motor actuation requirements, power consumption, and controller instability risk to be reduced without impacting traversability requirements. Future testing in higher- fidelity lunar simulant can expand on these results, since softer regolith may provide more challenge to the rover’s traction performance and produce stronger dependencies between slip and load distribution. Thus far, this testing has narrowed tuning parameters down to a robust window and reduced mission risk by characterizing mobility behavior across a wide spectrum of potential parameters.
 
 
+![suspension](https://user-images.githubusercontent.com/6529420/236520369-e6e9c044-7f79-41ee-98a4-fc19a97c8746.jpg)
+
+https://user-images.githubusercontent.com/6529420/236520176-5b9b9305-7789-4e0b-8e8f-c3c48886b8cf.mov
+
 
 
