@@ -16,6 +16,13 @@ To tackle this challenge, I investigated the effects of weight distribution and 
 
 *Key words*: planetary rover, field robotics, sandy slopes, granular resistive force theory, wheel-terrain interaction
 
+
+<center> 
+<img src="/images/shifty.png"  width="40%">
+<img src="/images/mgru.jpg"  width="55%"> 
+</center>
+
+
 Click on the paper titles for more information and images.
 
 {% for post in site.publications reversed %}
