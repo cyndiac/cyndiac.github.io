@@ -15,7 +15,9 @@ citation: 'C. Cao, D. Moon, C. Creager, D. K. Lieu, H. S. Stuart, “Push-pull l
 
 Push-pull locomotion is an effective mobility mode for traversing loose lunar regolith and climbing sandy slopes. A rover with an active suspension can generate thrust from a set of anchored wheels by adjusting its wheelbase while driving the remaining wheels. This paper explores the relationship between the velocities of the rotational and translational suspension elements. Using a kinematic slip greater than 30%-40%, inchworming surpasses both the travel velocity and power efficiency of normal driving on slopes between 10°-20°. On a 20° slope, inchworming improves travel reduction from 98% to 85% and reduces normalized power consumption by a factor of eight. Experiments with NASA’s upcoming Volatiles Investigating Polar Exploration Rover show that increasing kinematic slip increases its travel velocity in a sink tank by 35%. Models using granular resistive force theory indicate that wheels driving at higher slip can generate greater tractive force and thus reduce the load on the anchored wheels. Otherwise, at lower driving slip, the load capacity of anchored wheels may be exceeded and result in oscillatory overall travel. These experiments suggest that there is further room to improve wheeled locomotion by intentionally inducing wheel slip, especially in articulated suspensions.
 
-<video src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4"> <!-- controls="controls" style="max-width: 730px;"> -->
-</video>
 
+
+
+
+<video src='https://github.com/cyndiac/cyndiac.github.io/assets/6529420/aaafe08d-6289-4dcc-bd68-35c696b646ef'></video>
 
