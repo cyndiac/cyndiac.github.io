@@ -17,7 +17,7 @@ Push-pull locomotion is an effective mobility mode for traversing loose lunar re
 
 
 
+https://github.com/cyndiac/cyndiac.github.io/assets/6529420/aaafe08d-6289-4dcc-bd68-35c696b646ef
 
-
-<video src='https://github.com/cyndiac/cyndiac.github.io/assets/6529420/aaafe08d-6289-4dcc-bd68-35c696b646ef'></video>
+<!-- <video src='https://github.com/cyndiac/cyndiac.github.io/assets/6529420/aaafe08d-6289-4dcc-bd68-35c696b646ef' controls></video> -->
 
