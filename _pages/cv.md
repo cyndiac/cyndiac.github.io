@@ -24,6 +24,7 @@ Work Experience
   * Explored the impact of wheel-ground contact loads and slip control on the mobility of rovers traversing loose, sandy terrain and climbing large obstacles
   * Ran extensive test campaigns using both miniature rovers and NASA's VIPER lunar rover mobility test unit
   * Developed and deployed specialized terrain models to motivate new wheel slip controls
+  * Performed research and experiments at NASA Jet Propulsion Laboratory, Glenn Research Center, and Ames Research Center
 
 * [Jan-Aug 2018] **Apple** - Watch Product Design Intern
   * Analyzed users' wrist interactions in various water sports to quantify impact loads and environmental factors and to design appropriate test procedures
