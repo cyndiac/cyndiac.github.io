@@ -36,7 +36,7 @@ Personal Interests
 ======
 In my free time, I mentor the Berkeley High School Robotics team. I enjoy watching the students' ambitions grow as they continue to achieve more each year. I hope to teach them clear and respectful communication with each other and to remind them to pay attention to and inspire those around them. I also hope we can build fun robots that challenge expectations and put on a good show.
 
-<center> <img src="/images/frc.jpeg"  width="55%" > </center>
+<center> <img src="/images/frc.png"  width="55%" > </center>
 <!-- <br/> -->
 &nbsp;
 
