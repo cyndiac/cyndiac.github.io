@@ -1,6 +1,6 @@
 ---
 title: "Mini Rovers"
-excerpt: "I've built some fun small rovers while working on my graduate research... click here for some images. <br><img src="/images/babybot_cad.png"> "
+excerpt: "I've built some fun small rovers while working on my graduate research... click here for some images. <br><img src='/images/babybot_cad.png'> "
 collection: portfolio
 ---
 
