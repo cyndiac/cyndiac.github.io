@@ -12,18 +12,21 @@ For onboard telemetry, I've used onboard current sensors, IMU's, time of flight 
 
 This simple rover drives the front and back wheels at different speeds in order to increase travel velocity under large resistance loads (be it a towed load or gravity on a slope), since the loading causes different sinkage levels of each pair of wheels in soft media. More information is available [here](https://cyndiac.github.io/publication/fb-diff-drive).
 
-<center> 
+<!-- <center>  -->
 	<img src="/images/diffslip_setup.jpg"> 
-</center>
+<!-- </center> -->
+
+<!-- <br> -->
 
 This rover now has "legs" that extend and contract its wheelbase to perform inch-worming gaits. From a baseline where all the wheels drive at the same, equal speed, I was able to achieve an 8x travel efficiency improvement on 20° slopes by inch-worming and operating the driving wheels in a more favorable slip regime. More information is available [here](https://cyndiac.github.io/publication/inchworm).
 
 <center>
-	<img src="/images/shifty.jpg"> 
+	<img src="/images/shifty.png"> 
 </center>
 
 
 As a side project, I also helped my labmate design a winch for his tethered robotics work. I used a levelwinder from a fishing reel to keep the cable neat, and the winch is built upon a load cell on a swiveling base in order to measure the direction and magnitude of the tethered load. These images & gifs are courtesy of Justin Page.
+
 <center>
 	<img src="/images/winch.png"> 
 	<img src="/images/winch.gif"> 
