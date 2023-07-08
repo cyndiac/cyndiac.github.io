@@ -22,6 +22,15 @@ This rover now has "legs" that extend and contract its wheelbase to perform inch
 	<img src="/images/shifty.jpg"> 
 </center>
 
+
+As a side project, I also helped my labmate design a winch for his tethered robotics work. I used a levelwinder from a fishing reel to keep the cable neat, and the winch is built upon a load cell on a swiveling base in order to measure the direction and magnitude of the tethered load. These images & gifs are courtesy of Justin Page.
+<center>
+	<img src="/images/winch.png"> 
+	<img src="/images/winch.gif"> 
+	<img src="/images/winch_sand.gif"> 
+</center>
+
+
 I have also designed and built a larger rover (~24" square) that quickly shifts around its battery as ballast in order to redistribute its contact loads on the ground. My hypothesis is that oscilliatory loading may be more useful than balanced wheel loading in getting over obstacles and climbing sandy slopes, but I've run out of time in my PhD to test this! Pictures will be uploaded when I have a chance to get nice images, but for now here's a quick CAD. The suspension is fully passive but I use springs rather than a rocker or bogie to ensure that the shifted loads make their way to the wheels, rather than being equalized by kinematics.
 
 <center>
