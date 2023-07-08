@@ -1,6 +1,6 @@
 ---
 title: "Mini Rovers"
-excerpt: "I've built some fun small rovers while working on my graduate research... click here for some images. <br><img src='/images/babybot_cad.png'> "
+excerpt: "I've built some fun small rovers while working on my graduate research... click here for some images. <br><img src='/images/babybot_cad.png' width="49.5%"> <img src='/images/shifty.jpg' width="49.5%"> "
 collection: portfolio
 ---
 
@@ -21,11 +21,12 @@ This simple rover drives the front and back wheels at different speeds in order 
 This rover now has "legs" that extend and contract its wheelbase to perform inch-worming gaits. From a baseline where all the wheels drive at the same, equal speed, I was able to achieve an 8x travel efficiency improvement on 20° slopes by inch-worming and operating the driving wheels in a more favorable slip regime. More information is available [here](https://cyndiac.github.io/publication/inchworm).
 
 <center>
-	<img src="/images/shifty.png" width="49.5%"> 
+	<img src="/images/shifty.jpg" width="49.5%"> 
 </center>
 
+<br>
 
-As a side project, I also helped my labmate design a winch for his tethered robotics work. I used a levelwinder from a fishing reel to keep the cable neat, and the winch is built upon a load cell on a swiveling base in order to measure the direction and magnitude of the tethered load. These images & gifs are courtesy of Justin Page.
+As a side project, I designed a winch for a labmate's tethered robotics work. I used a levelwinder from a fishing reel to keep the cable neat, and the winch is built upon a load cell on a swiveling base in order to measure the direction and magnitude of the tethered load. These images & gifs are courtesy of Justin Page.
 
 <center>
 	<img src="/images/winch.png" width="49.5%"> 
@@ -33,6 +34,7 @@ As a side project, I also helped my labmate design a winch for his tethered robo
 	<img src="/images/winch_sand.gif" width="75%"> 
 </center>
 
+<br>
 
 I have also designed and built a larger rover (~24" square) that quickly shifts around its battery as ballast in order to redistribute its contact loads on the ground. My hypothesis is that oscilliatory loading may be more useful than balanced wheel loading in getting over obstacles and climbing sandy slopes, but I've run out of time in my PhD to test this! Pictures will be uploaded when I have a chance to get nice images, but for now here's a quick CAD. The suspension is fully passive but I use springs rather than a rocker or bogie to ensure that the shifted loads make their way to the wheels, rather than being equalized by kinematics.
 
