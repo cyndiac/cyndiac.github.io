@@ -18,8 +18,7 @@ To tackle this challenge, I investigated the effects of weight distribution and 
 
 
 <center> 
-<img src="/images/shifty.png"  width="40%">
-<img src="/images/mgru.jpg"  width="55%"> 
+<img src="/images/mgru.jpg"  width="60%"> 
 </center>
 
 

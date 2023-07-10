@@ -21,7 +21,7 @@ This simple rover drives the front and back wheels at different speeds in order 
 This rover now has "legs" that extend and contract its wheelbase to perform inch-worming gaits. From a baseline where all the wheels drive at the same, equal speed, I was able to achieve an 8x travel efficiency improvement on 20° slopes by inch-worming and operating the driving wheels in a more favorable slip regime. More information is available [here](https://cyndiac.github.io/publication/inchworm).
 
 <center>
-	<img src="/images/shifty.jpg" width="49.5%"> 
+	<img src="/images/shifty.jpg" width="65%"> 
 </center>
 
 <br>

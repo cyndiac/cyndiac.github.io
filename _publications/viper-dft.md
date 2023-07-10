@@ -2,7 +2,7 @@
 title: "Actuated Suspension Tuning Characterization of the VIPER Lunar Rover"
 collection: publications
 permalink: /publication/viper-dft
-excerpt: "VIPER will be the first rover with an active suspension to launch on a NASA mission. This work experimentally characterizes the mobility performance of VIPER's load-responsive suspension controller as it traverses typical terrains with different tuning parameters."
+excerpt: "VIPER will be the first rover with an active suspension to launch on a NASA mission. This work experimentally characterizes the mobility performance of VIPER's load-responsive suspension controller as it traverses typical terrains with different tuning parameters.<br/><img src='/images/suspension.jpg' width='60%'>"
 date: 2023-03-10
 venue: 'IEEE Aerospace Conference'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10115796'
