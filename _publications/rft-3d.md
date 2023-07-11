@@ -2,7 +2,7 @@
 title: "Granular Resistive Force Theory Implementation for Three-Dimensional Trajectories"
 collection: publications
 permalink: /publication/rft-3d
-excerpt: "RFT is an empirical model of the forces on a body as it moves through sand. Its output is purely dependent on body geometry and velocity. This work extends the original 2D model to 3D using one additional internal model parameter and no additional media-specific parameters.<br><img src='/images/rft3d_ellipsoid.png'>"
+excerpt: "RFT is an empirical model of the forces on a body as it moves through sand. Its output is purely dependent on body geometry and velocity. This work extends the original 2D model to 3D using one additional internal model parameter and no additional media-specific parameters.<br><img src='/images/rft3d_ellipsoid.png' width='50%'>"
 date: 2021-02-03
 venue: 'IEEE Robotics and Automation Letters'
 paperurl: 'https://ieeexplore.ieee.org/document/9345981'
