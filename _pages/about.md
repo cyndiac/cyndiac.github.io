@@ -9,14 +9,14 @@ redirect_from:
 ---
 
 ![Cyndia at SLOPE lab](/images/cyndia_viper.png)
-My name is Cyndia, and I am a PhD Candidate at UC Berkeley with the Embodied Dexterity Group. I study rover locomotion, funded by a NASA Space Technology Research Fellowship. 
-<!-- In the picture above, I am assisting VIPER validation & verification testing at NASA Glenn Research Center. -->
+My name is Cyndia, and I am a PhD Candidate at UC Berkeley with the Embodied Dexterity Group funded by a NASA Space Technology Research Fellowship. I aim to improve the interactions of robotic systems and their environments by developing expertise on contact models, which I then use to propose and evaluate new methods of kinematic control, specifically targeted at rovers with articulated suspensions.
+In the picture above, I am assisting VIPER validation & verification testing at NASA Glenn Research Center.
 
-I came to graduate school in order to develop the technical and project management skills to lead research and development groups, specifically for field robotics in challenging environments. In my research, I developed and analyzed models and simulations, which I then used to improve the operation and design of robotic systems. In the process, I had to develop performance metrics and quantification processes to evaluate success. 
+<!-- I came to graduate school in order to develop the technical and project management skills to lead research and development groups, specifically for field robotics in challenging environments.  -->
+<!-- I developed and analyzed models and simulations, which I then used to improve the operation and design of robotic systems. In the process, I had to develop performance metrics and quantification processes to evaluate success.  -->
 
 In the last few years, I realized there are still huge technical challenges remaining on the path to curbing human impact on Earth's ecosystems. Many technologies have been demonstrated in the lab but struggle to be cost or energy effective in the real world. 
 <!-- I am ready to combine my research and industry experience to tackle these hurdles and see these technologies to either impactful scales or to a proper localized application. -->
-
 **My mission is to use my research experience to deploy technology from the lab into the field in order to address technical barriers to mitigating climate change, such as long-duration storage, green hydrogen generation, and carbon capture. I am a hands-on, experimentally-driven, and theory-motivated builder who enjoys adapting to the challenge at hand.**
 
 
