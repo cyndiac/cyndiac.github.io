@@ -1,6 +1,6 @@
 ---
 title: "MIT - Lathe"
-excerpt: "I took a machine design class, where we built a desktop lathe. I was the FEA lead of my group. <br><center><img src='/images/portfolio/mit/272.jpg' width='60%'></center> "
+excerpt: "This lathe build was from the machine design class I took in undergrad. I was the FEA lead of my group. <br><center><img src='/images/portfolio/mit/272.jpg' width='60%'></center> "
 collection: portfolio
 ---
 
@@ -13,7 +13,7 @@ The three primary systems were the spindle, the "dancing man flexure", and the c
 
 <center>
 <img src="/images/portfolio/mit/272_assembly.gif"  width="70%" >
-<img src="/images/portfolio/mit/272_views_labelled.jpg"  width="28%" >
+<img src="/images/portfolio/mit/272_views_labelled.PNG"  width="28%" >
 </center>
 <br>
 

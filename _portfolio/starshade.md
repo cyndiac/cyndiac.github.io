@@ -10,18 +10,18 @@ This may sound like a simple task, but I think our greatest achievement was maki
 
 
 <center>
-	<img src="/images/portfolio/starshade/starshade.png" width="49.5%"> 
+	<img src="/images/portfolio/starshade/starshade.png" width="40%"> 
     <!-- <img src="/images/portfolio/starshade/starshade_unfurling.mp4" width="49.5%">  -->
-    <img src="/images/portfolio/starshade/starshade_bondedOS.jpg" width="49.5%"> 
+    <img src="/images/portfolio/starshade/starshade_bondedOS.jpg" width="58%"> 
 </center>
 
 <br>
 There were quite a few requested engineering models, which were meant to serve as a communication & design tool for scientists and engineers.
 
 <center>
-    <img src="/images/portfolio/starshade/starshade_deployedmodel.jpg" width="70%"> 
+    <img src="/images/portfolio/starshade/starshade_deployedmodel.JPG" width="70%"> 
     <img src="/images/portfolio/starshade/starshade_unfurlingmodel.jpg" width="70%"> 
-    <img src="/images/portfolio/starshade/starshade_stowedmodel.jpg" width="70%"> 
+    <img src="/images/portfolio/starshade/starshade_stowedmodel.JPG" width="70%"> 
     <img src="/images/portfolio/starshade/starshade_crossmodel.jpg" width="70%"> 
 </center>
 <br>
