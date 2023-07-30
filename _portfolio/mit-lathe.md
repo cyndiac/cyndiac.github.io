@@ -13,7 +13,7 @@ The three primary systems were the spindle, the "dancing man flexure", and the c
 
 <center>
 <img src="/images/portfolio/mit/272_assembly.gif"  width="70%" >
-<img src="/images/portfolio/mit/272_views_labelled.PNG"  width="28%" >
+<img src="/images/portfolio/mit/272_views_labelled.JPG"  width="28%" >
 </center>
 <br>
 
